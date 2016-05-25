@@ -20,6 +20,9 @@ This WordPress plugin <a href="https://wordpress.org/plugins/toolbar-removal-com
 
 Remember that this plugin it may become obsolete when the Core Team adds it their own global options [features are being developed plugins first](https://make.wordpress.org/core/features-as-plugins/).
 
+### Build Status
+[![Build Status](https://travis-ci.org/sLaNGjI/global-admin-bar-hide-or-remove.svg?branch=master)](https://travis-ci.org/sLaNGjI/global-admin-bar-hide-or-remove)
+
 BRUTE FORCE PLUGIN - Part of coding of BRUTE FORCE PLUGIN was derived directly from <a href="https://slangji.wordpress.com/">sLa NGjI's</a> <a href="https://wordpress.org/plugins/wp-admin-bar-removal/">WP Admin Bar Removal</a> and <a href="https://wordpress.org/plugins/wp-toolbar-removal/">WP Toolbar Removal</a> and was released under GPLv2 or later License: this plugin use same License GPLv2 or later. <a href="https://wordpress.org/support/topic/brute-force-plugin-license-infringement/">Read More Here</a>
 `
 BRUTEFORCE PLUGIN INCLUDED ON THIS PACKAGE WAS DISCONTINUED
